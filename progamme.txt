@@ -2,5 +2,6 @@
 
 * Ajouter des fichiers
 * Voir l'historique
+* Modifier les fichiers
 * Ne pas avoir peut des merge
 * Ajouter des participants au projet
